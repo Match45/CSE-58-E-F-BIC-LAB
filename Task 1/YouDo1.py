@@ -1,5 +1,5 @@
+# Input: Getting data from the user (always returns a string)
+name = input("Enter your name: ")
 
-name = input("what is your favourite color ")
-
-
-print("Your favorite color is [" + name + "]")
+# Output: Displaying data to the screen
+print("Hello,", name)
